@@ -30,14 +30,14 @@
 
 ## can i get discount on this course?
 
-| discount | condition                                    |
-|:--------:|----------------------------------------------|
-| 5%       | 10 preregister in fo course                  |
-| 10%      | 20 preregister in for course                 |
-| 25%      | 30 preregister in for course                 |
-| 50%      | 50 preregister in for course                 |
-| +10%     | having a business in AlphaGaming server      |
-| +10%     | inviting 2 friends (they have to buy course) |
+| discount | condition                                    | equals to |
+|:--------:|----------------------------------------------|:---------:|
+| 5%       | 10 pre-register in fo course                 | ~4,000T   |
+| 10%      | 20 pre-register in for course                | 7,000T    |
+| 25%      | 30 pre-register in for course                | 18,000T   |
+| 50%      | 50 pre-register in for course                | 35,000T   |
+| +10%     | having a business in AlphaGaming server      | 7,000T    |
+| +10%     | inviting 2 friends (they have to buy course) | 7,000T    |
 
 ## what do we sell?
 
