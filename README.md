@@ -4,8 +4,8 @@
 
 	------------- part one -------------
 	- install important dependencies 
-	- file structore in samp
-	- What's FilterScript
+	- file structure in samp
+	- What's a FilterScript
 	- basic programming
 	- getting started with GIT
 	- more into callBacks
@@ -50,7 +50,7 @@
 
 ## how can i buy samp scripting basics?
 
-1. PM me in telegram or instagram : @shinya_dono
+1. PM me in telegram or instagram : `@shinya_dono`
 2. you have to pay 50,000T for pre-register
 3. you get access to tutorial channel, after finnishing part one, you have to pay depending on howmany discount perk you have then.
 4. you'll get access to part two channel
