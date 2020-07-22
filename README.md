@@ -8,10 +8,9 @@
 	- What's a FilterScript
 	- basic programming
 	- getting started with GIT
-	- more into callBacks
+	- advanced callBacks
 	- some standards
-	- arrays
-	- player arrays
+	- basic libraries 
 	------------- part two -------------
 	- save data into file
 	- save data into Sqlite
@@ -36,7 +35,6 @@
 | 10%      | 20 pre-register in for course                | 7,000T    |
 | 25%      | 30 pre-register in for course                | 18,000T   |
 | 50%      | 50 pre-register in for course                | 35,000T   |
-| +10%     | having a business in AlphaGaming server      | 7,000T    |
 | +10%     | inviting 2 friends (they have to buy course) | 7,000T    |
 
 ## what do we sell?
